@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Perl interface to GialloZafferano.it website to find cooking recipes",
    "author" : [
       "mudler <mudler@dark-lab.net>"
    ],
