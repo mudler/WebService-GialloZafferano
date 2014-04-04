@@ -11,7 +11,7 @@ use List::Util qw( min );
 use WebService::GialloZafferano::Recipe;
 use WebService::GialloZafferano::Ingredient;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =encoding utf-8
 
@@ -68,6 +68,7 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =head1 SEE ALSO
+
 L<WebService::GialloZafferano::Recipe>, L<WebService::GialloZafferano::Ingredient>
 
 =cut

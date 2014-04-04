@@ -44,7 +44,7 @@ returns undef on error
 
 =item text
 
-	$Recipe->ingredients() #gets the text of the recipe
+	$Recipe->text() #gets the text of the recipe
 
 returns undef on error
 
@@ -71,6 +71,7 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =head1 SEE ALSO
+
 L<WebService::GialloZafferano>, L<WebService::GialloZafferano::Ingredient>
 
 =cut
